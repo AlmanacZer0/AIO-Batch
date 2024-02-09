@@ -1,7 +1,7 @@
 # All In One - Batch
-Made during the 22-23 classes out of boredom, continued for the sake of utility. Only a spanish file for the moment.
+Hecho durante las clases del 22-23 mitad por trabajo, mitad por aburrimiento. Subido aqui por archivarlo y por si algún dia me apetece seguir con ello.
 
-## Utilities
-1. Ping - With built-in fast memo
-2. User and Group - Move, Add and Delete users and groups
-3. Network Settings (WIP) - Change static IPs, and more thinks to come.
+## Utilidades
+1. Ping - Con opción de memo
+2. Usuarios y Grupos - Crear, mover y eliminar usuarios y grupos.
+3. Ajustes de red (WIP) - Para cambiar las configuraciones de los adaptadores de red, en punto muerto.
